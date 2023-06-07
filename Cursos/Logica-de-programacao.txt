@@ -1,0 +1,62 @@
+Lógica de Programação:
+Parte da mente do programador e é essencial para escrever códigos em busca de resolver problemas.
+Exemplos de formas que se pode utilizar a lógica de programação:
+Fluxograma, Nassi Shneiderman, Portugol (mais utilizado);
+
+Algoritmos:
+São conjuntos de passos finitos e organizados que, quando executados resolvem um determinado problema;
+
+Algoritmos Computacionais:
+São passos a serem seguidos por um módulo processador e seus respectivos usuários que, quando executados na ordem correta, conseguem realizar determianda tarefa;
+
+Váriaveis:
+São "espaços" vazios que podem ser preenchidos por valores
+
+Identificador:
+.Está ligado aos tipos
+1.Deve começar com uma letra
+2.Os próximos podem ser letras ou números
+3.Não se pode utilizar nenhum símbolo, exceto _
+4.Não podem contem espaços em branco
+5.Não pode conter letras com acentos
+6.Não pode ser uma palavra reservada
+
+Tipos:
+Inteiro: Numeros positivos, negativos ou zero
+Real: Números fracionários, e todos outros conjuntos
+Caractere: Cadeia de letras e números, tudo que está entre aspas, textos, etc
+Logico: verdadeiro ou falso (true or false)
+
+Atribuições:
+Atribui o tipo ao identificador;
+Exemplo: <-
+
+Comandos de entrada:
+forma de entrar com dados no computador, interação
+
+Operadores Aritméticos:
++ = Adição
+- = Subtração
+* = Multiplacação 
+/ = Divisão
+\ = Divisão inteira
+^  ,**= Potência
+% = Módulo (resto da divisão)
+
+Ordem de precedência 
+1º ()
+2º ^
+3º *, /
+4º + -
+
+Funções Aritmétricas
+Abs: Valor absoluto -> -10 = 10
+Exp: Exponenciação -> 3,2 = 9
+Int: Valor Inteiro -> 3.9 = 3
+RaizQ: Raiz quadrada -> 25 = 5
+Pi: Retorna Pi -> 3,14...
+Sen: Seno (rad) -> 0.523 = 0.5
+Cos: Cosseno (rad) -> 0.523 = 0.86
+Tan: Tangente (rad) -> 0.523 = 0.57
+GraupRad: Graus para Rad -> 30 = 0.52
+Exemplo de aplicação: print(abs(-5))
