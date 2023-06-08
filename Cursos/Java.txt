@@ -1,0 +1,40 @@
+O que é Java?
+Java pode ser uma linguagem de programação, uma API, ou um ambiente de execução
+
+Como linguagem de programação Java é:
+.Simples
+.Orientada a Objetos
+.Ditribuída
+.Multithreaded
+.Dinâmica
+.Arquitetura neutra
+.Portável
+.Ótima Performance
+.Robusta
+.Segura
+
+Siglas comumente usadas:
+WORA (Write Once Run Anywhere)
+JVM (Java Virtual Machine)
+API (Java Application Programming Interface)
+
+
+Plataforma e Ambiente Java:
+Java pode ser escrito e rodado em qualquer plataforma sendo considerado uma linguagem WORA, e JVM é o programa responsável por fazer com que o código escrito em Java rode em qualquer plataforma
+
+O que é API:
+API é a interface de programação do Java
+API é um conjunto de bibliotecas; uma biblioteca é um conjunto de códigos que te permitem fazer algo
+Um exemplo de biblioteca seria a biblioteca matemática que guarda os códigos que trabalham com funções matemáticas
+A API guarda essa biblioteca e outras para que os códigos Java possam funcionar corretamente
+
+Plataforma Java:
+É a união da API com a JVM
+A plataforma Java é única e específica para cada plataforma (Windows, Linus, Mac, etc)
+
+
+
+
+
+
+
